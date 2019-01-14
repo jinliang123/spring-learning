@@ -12,6 +12,7 @@
         <module>spring-proxy</module>
         <module>spring-factory</module>
         <module>spring-singleton</module>
+        <module>spring-delegate</module>
     </modules>
 
 
